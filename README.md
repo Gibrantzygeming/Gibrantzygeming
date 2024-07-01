@@ -7,19 +7,19 @@
 <body>
   <div class="slider-container">
     <div class="slide fade">
-      <img src="gambar1.jpg" alt="Gambar 1">
+      <img src="https://photos.app.goo.gl/uzFNpMwNVv1EdwbZ9.jpg" alt="bokep jav">
     </div>
     <div class="slide fade">
-      <img src="gambar2.jpg" alt="Gambar 2">
+      <img src="" 
+        alt="Gambar 2">
     </div>
     <div class="slide fade">
       <img src="gambar3.jpg" alt="Gambar 3">
     </div>
-
     <a class="prev" onclick="changeSlide(-1)">❮</a>
+    <div
     <a class="next" onclick="changeSlide(1)">❯</a>
-  </div>
-
   <script src="script.js"></script>
+  
 </body>
 </html>
