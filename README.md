@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Gibrantzygeming
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Slider Gambar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="slider-container">
+    <div class="slide fade">
+      <img src="gambar1.jpg" alt="Gambar 1">
+    </div>
+    <div class="slide fade">
+      <img src="gambar2.jpg" alt="Gambar 2">
+    </div>
+    <div class="slide fade">
+      <img src="gambar3.jpg" alt="Gambar 3">
+    </div>
 
-<!---
-Gibrantzygeming/Gibrantzygeming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <a class="prev" onclick="changeSlide(-1)">❮</a>
+    <a class="next" onclick="changeSlide(1)">❯</a>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
