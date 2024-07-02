@@ -16,6 +16,7 @@
     <div class="slide fade">
       <img src="gambar3.jpg" alt="Gambar 3">
     </div>
+
     <a class="prev" onclick="changeSlide(-1)">❮</a>
     <div
     <a class="next" onclick="changeSlide(1)">❯</a>
