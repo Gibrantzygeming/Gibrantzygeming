@@ -7,7 +7,7 @@
 <body>
   <div class="slider-container">
     <div class="slide fade">
-      <img src="IMG-20240613-WA0007" alt="bokep jav">
+      <img src="SAWAH.jpg" alt="ANGSD">
     </div>
     <div class="slide fade">
       <img src="" 
